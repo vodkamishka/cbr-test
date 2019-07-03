@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cbr-test/static/css/main.6637f0af.chunk.css",
+    "main.css": "/cbr-test/static/css/main.2ab197f0.chunk.css",
     "main.js": "/cbr-test/static/js/main.6dfc30e4.chunk.js",
     "main.js.map": "/cbr-test/static/js/main.6dfc30e4.chunk.js.map",
     "runtime~main.js": "/cbr-test/static/js/runtime~main.4c379efd.js",
@@ -8,8 +8,8 @@
     "static/js/2.f0aab62d.chunk.js": "/cbr-test/static/js/2.f0aab62d.chunk.js",
     "static/js/2.f0aab62d.chunk.js.map": "/cbr-test/static/js/2.f0aab62d.chunk.js.map",
     "index.html": "/cbr-test/index.html",
-    "precache-manifest.cef69c5cae9908167a812a318a64e788.js": "/cbr-test/precache-manifest.cef69c5cae9908167a812a318a64e788.js",
+    "precache-manifest.5ea47cedd9e2dcd74c13b5b36c3b7919.js": "/cbr-test/precache-manifest.5ea47cedd9e2dcd74c13b5b36c3b7919.js",
     "service-worker.js": "/cbr-test/service-worker.js",
-    "static/css/main.6637f0af.chunk.css.map": "/cbr-test/static/css/main.6637f0af.chunk.css.map"
+    "static/css/main.2ab197f0.chunk.css.map": "/cbr-test/static/css/main.2ab197f0.chunk.css.map"
   }
 }
