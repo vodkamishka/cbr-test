@@ -1,0 +1,7 @@
+.expand{
+    width: 18px;
+    height: 18px;
+    float: left;
+    background-image : url('https://vodkamishka.github.io/cbr-test/images/expand_plus.gif');
+    background-repeat: no-repeat;
+}
